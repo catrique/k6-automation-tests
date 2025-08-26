@@ -1,0 +1,10 @@
+environments/
+tests/products/
+tests/reports/base64.js
+tests/reports/base64.js
+tests/reports/EventConsumersIds.js
+tests/subscriptions/cria_insc_prod.js
+tests/subscriptions/inscritos.js
+tests/subscriptions/paid.js
+listAllEvents.js
+
